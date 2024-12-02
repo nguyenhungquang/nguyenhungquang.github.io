@@ -10,3 +10,4 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    # restart: always
