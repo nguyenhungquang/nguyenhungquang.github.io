@@ -6,7 +6,7 @@ date: 2024-05-01
 inline: true
 related_posts: false
 ---
-Our [paper](https://aclanthology.org/2024.findings-acl.856/) applying randomized defense for NLP models is accepted at ACL Findings 2024.
+Our [paper](https://aclanthology.org/2024.findings-acl.856/) applying randomized defense to NLP models is accepted at ACL Findings 2024.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
