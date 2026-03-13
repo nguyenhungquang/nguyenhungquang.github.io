@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Quang Nguyen (my full name is Nguyen Hung Quang). I am a research assistant at [MAIL Research lab](https://mail-research.com/) at VinUniversity under the supervision of Prof. Khoa Doan. I took my CS bachelor in VNU Hanoi. My current research focuses on understanding **the behavior of generative models** and developing **robust** and **trustworthy AI systems**. 
+Hi! I am Quang Nguyen (my full name is Nguyen Hung Quang), an incoming PhD student at UNC-Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/). I am currently a research assistant at VinUniversity. I took my CS bachelor in VNU Hanoi. My current research focuses on understanding **the behavior of generative models** and developing **robust** and **trustworthy AI systems**. 
 
 Recently, I am interested in:
-- the mechanisms of reasoning language models and their influence on the alignment and reliability.
-- the reasoning capability of vision-language models.
+- the mechanisms of reasoning language models
+- the multimodal misalignment problem.
 - safety concerns in diffusion models.
 
 Besides research, I enjoy reading, playing tennis, and pingpong.
