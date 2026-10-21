@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+# Required by citeproc-ruby (jekyll-scholar) on newer Ruby versions.
+gem 'observer'
+# Required by jekyll-twitter-plugin on newer Ruby versions.
+gem 'ostruct'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'

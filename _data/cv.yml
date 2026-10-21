@@ -1,97 +1,46 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
-
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
-
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
-
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
-
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: "Quang Hung Nguyen"
+  type: "list"
+  contents:
+    - "https://nguyenhungquang.github.io/"
+- title: "Experience"
+  type: "time_table"
+  contents:
+    - institution: '<a href="https://murgelab.cs.unc.edu">MURGe Lab</a>, UNC-Chapel Hill'
+      year: "2026 - Present"
+      title: "Research Assistant"
+    - institution: "VinUniversity"
+      year: "2023 - 2026"
+      title: "Research Assistant"
+    - institution: "VinUniversity"
+      year: "2023 - 2026"
+      title: "Teaching Assistant"
+    - institution: "Sun* R&D Unit"
+      year: "2021 - 2022"
+      title: "Research Engineer"
+    - institution: "Math and Science Summer Program"
+      year: "7/2021"
+      title: "Mathematics Mentor"
+    - institution: "Knowledge Technology Laboratory - UET"
+      year: "2020 - 2021"
+      title: "Undergraduate Research Student"
+- title: "Education"
+  type: "time_table"
+  contents:
+    - title: "Ph.D. Computer Science" 
+      institution: "University of North Carolina at Chapel Hill (UNC-Chapel Hill)"
+      year: "2026 - Present"
+    - title: "B.S. Computer Science"
+      institution: "Vietnam National University, University of Engineering and Technology (VNU-UET)"
+      year: "2017 - 2021"
+- title: "Community Services"
+  type: "nested_list"
+  contents:
+    - title: "Reviewer"
+      items:
+        - "ICLR, AISTATS, ICML, TMLR 2026"
+        - "ICLR, AISTATS, CVPR, ICML, TMLR, NeurIPS (Top Reviewer) 2025"
+        - "NeurIPS (Top Reviewer) 2024"
+    - title: "Additional Activities"
+      items:
+        - "Volunteered for the ACML 2024 conference."
+        - "Contributed to the Vietnamese translation of chapter 5 of the book “Interpretable machine learning” by Christoph Molnar."

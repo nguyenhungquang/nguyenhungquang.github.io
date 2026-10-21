@@ -18,12 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Quang Nguyen (my full name is Nguyen Hung Quang), an incoming PhD student at UNC-Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/). I am currently a research assistant at VinUniversity. I took my CS bachelor in VNU Hanoi. My current research focuses on understanding **the behavior of generative models** and developing **robust** and **trustworthy AI systems**. 
-
-Recently, I am interested in:
-- the mechanisms of reasoning language models
-- the multimodal misalignment problem.
-- safety concerns in diffusion models.
+Hi! I am a first-year PhD student at UNC-Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/). Previously, I worked as a research assistant at VinUniversity with [Prof. Khoa Doan](https://mail-research.com/). I took my CS bachelor's at VNU Hanoi. My current research focuses on understanding **the behavior of generative models** and developing **robust** and **trustworthy AI systems**.
 
 Besides research, I enjoy reading, playing tennis, and pingpong.
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->

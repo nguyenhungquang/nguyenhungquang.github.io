@@ -4,7 +4,7 @@
     <div
       class="table-responsive"
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+        style="max-height: {{ site.announcements.max_height | default: '250px' }}; overflow-y: auto"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
